@@ -5,8 +5,8 @@ The application allows users to save articles, add notes and delete them from th
 
 Deployed application can be found: https://homework14mongo-db.herokuapp.com/
 
-To run application locally:
-  1- Clone git repository: https://github.com/BBITguru/14-MongoDB-Homework.git
-  2- cd into the root directory "14-MongoDB-Homework"
-  3- run node comand on server.js "node server.js"
-  4- visit localhost:3000 in broswer
+To run application locally:<br>
+  1- Clone git repository: https://github.com/BBITguru/14-MongoDB-Homework.git<br>
+  2- cd into the root directory "14-MongoDB-Homework"<br>
+  3- run node comand on server.js "node server.js"<br>
+  4- visit localhost:3000 in broswer<br>
